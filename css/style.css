@@ -8,3 +8,15 @@
   margin: 0;
   padding: 0;
 }
+
+body {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    color: #333333;
+}
+
+header {
+    background-color: #f0f0f0;
+    padding: 20px 20px 120px 20px;
+    text-align: center;
+}
