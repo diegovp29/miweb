@@ -52,6 +52,11 @@ img {
     width: 100%;
 }
 
+.img {
+    display: flex;
+    align-items: center;
+}
+
 div {
     padding: 20px;
 }
@@ -62,7 +67,7 @@ h2 {
 }
 
 ul {
-    padding: 0px 30px;
+    padding: 0% 10%;
 }
 
 li {
