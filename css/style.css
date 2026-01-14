@@ -29,3 +29,7 @@ section {
 div {
     padding: 20px
 }
+
+.img {
+    max-width: 50%;
+}
